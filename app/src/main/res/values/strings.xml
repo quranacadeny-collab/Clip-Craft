@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClipCraft</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_link_check">Link Check</string>
+    <string name="nav_exports">Exports</string>
+    <string name="studio_tagline">Crop, Reframe &amp; Transform Clips Safely for YouTube</string>
+    <string name="pick_video_cta">Select Video to Edit</string>
+    <string name="export_video_cta">Export MP4 Clip</string>
+    <string name="cancel_export">Cancel</string>
+    <string name="share_to_youtube">Share / Upload</string>
+    <string name="inspect_link_cta">Inspect YouTube Link</string>
+    <string name="paste_link_hint">Paste YouTube URL (watch, shorts, youtu.be)</string>
+</resources>
